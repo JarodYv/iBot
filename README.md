@@ -1,4 +1,4 @@
 iBot
 ====
 
-Node.js interface for 
+iBotCloud for Node.js

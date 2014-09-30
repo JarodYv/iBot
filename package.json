@@ -1,0 +1,26 @@
+{
+    "name": "iBot",
+    "version": "0.0.1",
+    "description": "iBotCloud for nodejs .",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test/test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JarodYv/iBot.git"
+    },
+    "keywords": [
+        "simsimi",
+        "nodejs"
+    ],
+    "author": "Jarod Yv",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/JarodYv/iBot/issues"
+    },
+    "homepage": "https://github.com/JarodYv/iBot",
+    "dependencies": {
+        "request": "^2.40.0"
+    }
+}

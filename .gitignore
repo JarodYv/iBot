@@ -26,3 +26,23 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+.idea/.name
+
+.idea/encodings.xml
+
+.idea/iBot.iml
+
+.idea/jsLibraryMappings.xml
+
+*.xml
+
+*.xml
+
+.idea/libraries/Node_js_Dependencies_for_iBot.xml
+
+.idea/jsLibraryMappings.xml
+
+.idea/jsLibraryMappings.xml
+
+.idea/jsLibraryMappings.xml
